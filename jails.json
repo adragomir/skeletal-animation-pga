@@ -1,0 +1,6 @@
+{
+    "local_modules": ["modules"], 
+    "roots": ["main.jai"], 
+    "jai_path": "/Users/adragomi/work/tools/jai"
+}
+
